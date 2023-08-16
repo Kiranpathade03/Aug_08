@@ -1,0 +1,47 @@
+html tags.................
+<h1>...</h1>
+<h2>...</h2>
+<h3>...</h3>
+<h4>...</h4>
+<h5>...</h5>
+<h6>...</h6>
+<br>
+<p>...</p>
+<button>...</button>
+<style>...</style>
+<a href="" > .... </a>
+
+
+inputes.................
+
+<input type="text">
+<input type="submit" >
+<input type="range" >
+<input type="date">
+<input type="time" >
+<input type="file" >
+<input type="radio" >
+<input type="checkbox" >
+<input type="int" >
+<input type="password" >
+
+
+Q3)
+
+we add css in html file in 3 ways 
+1.internal css
+2.external css
+3.inline css
+
+
+Q4)
+class:
+<div class="abc" > .......</div>
+ID:
+<div id="pqr">....</div>
+id name is unique
+
+
+Q5)
+
+<div  
